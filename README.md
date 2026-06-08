@@ -7,8 +7,8 @@
 
   <h2>Data</h2>
   <p>
-  All data can be found in the <code>\data</code> folder, with dataframes stored as <code>.csv</code>s. 
-  df_retrieval_results is a particularly large file, and, due to storage constraints, we have uploaded it as a compressed <code>.zip</code> file.
+  All data can be found in the <code>\data</code> folder, with most dataframes stored as <code>.csv</code>s. 
+  df_retrieval_experiments and df_retrieval_results are particularly large dataframes, and, due to storage constraints, we have uploaded them as compressed <code>.zip</code> files.
   For further details regarding the events used and collection methodology, please refer to our paper.
   </p>
 
